@@ -1,12 +1,13 @@
-# simple-rest_api-django-python
-employments management REST API with Pyhton, Django, Json  and Sqlite
+# Simple-rest_api-django-python
+Employments management REST API with Pyhton, Django, Json  and Sqlite
 
 ## Setps
-to create a REST API with django,you will typically follow these steps:
-1.Set up django
-2.Create a model in the database that the Django ORM will manage
-3.Serialize the model from step 2
-4.Create the URI endpoints to view the serialized data
+To create a REST API with django,you will typically follow these steps:
+
+* 1.Set up django
+* 2.Create a model in the database that the Django ORM will manage
+* 3.Serialize the model from step 2
+* 4.Create the URI endpoints to view the serialized data
 ## 1.Set up django :
 
 1.1 first we have to install django
